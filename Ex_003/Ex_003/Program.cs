@@ -19,7 +19,7 @@ namespace Ex_003
             }
             else
             {
-                Console.WriteLine("Não são multiplos");
+                Console.WriteLine("Não são Multiplos");
             }
         }
     }
