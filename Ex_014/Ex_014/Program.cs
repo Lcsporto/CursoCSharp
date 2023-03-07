@@ -17,14 +17,14 @@ namespace Ex_014
             aln.nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("NOTA FINAL = " + aln.SomaNotas().ToString("F2", CultureInfo.InvariantCulture));
-            if (aln.SomaNotas() > 60)
+            if (aln.SomaNotas() >= 60)
             {
                 Console.WriteLine("APROVADO");
             }
             else
             {
                 Console.WriteLine("REPROVADO");
-                Console.WriteLine("FALTARAM " + aln.NotaQueFalta().ToString("F2", CultureInfo.InvariantCulture) + "PONTOS");
+                Console.WriteLine("FALTARAM " + aln.NotaQueFalta().ToString("F2", CultureInfo.InvariantCulture) + " PONTOS");
             }
 
             
