@@ -19,19 +19,21 @@ namespace Ex_017
             Numero_Conta = numero_conta;
             Nome_Conta = nome_conta;
         }
-        void Depositos(double depositos) {
+        public void Depositos(double depositos) {
             Saldo_Conta += depositos;
        
         }
 
-        void Saque(double saque) {
+        public void Saque(double saque) {
             Saldo_Conta -= saque + 5;
         }
 
 
         public string Dados_da_conta() {
-            return ($"Conta: {Numero_Conta}, Titular {Nome_Conta}, Saldo: $ {Saldo_Conta}");
+            return ($"Conta: {Numero_Conta}, Titular: {Nome_Conta}, Saldo: $ {Saldo_Conta}");
+            
         }
+
       
 
 
