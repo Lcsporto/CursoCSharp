@@ -1,2 +1,40 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Globalization;
+
+namespace Ex_017;
+
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        double saldo_inicial = 0;
+
+        Console.Write("Entre com o numero da conta: ");
+        int numero = int.Parse(Console.ReadLine());
+
+        Console.Write("Entre o titular da conta: ");
+        string nome = Console.ReadLine();
+
+        Console.Write("haverá depósito inicial (s/n)?: ");
+        string validacao = Console.ReadLine();
+
+        if (validacao == "s")
+        {
+            Console.Write("Entre o valor de deposito inicial: ");
+            saldo_inicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        }
+
+        Console.WriteLine();
+        Conta_Bancaria conta = new Conta_Bancaria(numero, nome, saldo_inicial);
+        Console.WriteLine();
+
+       Console.WriteLine("Dados da conta:");
+       Console.WriteLine(conta.Dados_da_conta());
+
+            
+
+
+
+
+    }
+}
