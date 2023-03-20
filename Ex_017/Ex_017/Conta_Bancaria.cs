@@ -28,12 +28,6 @@ namespace Ex_017
             Saldo_Conta -= saque + 5;
         }
 
-
-        public string Dados_da_conta() {
-            return ($"Conta: {Numero_Conta}, Titular: {Nome_Conta}, Saldo: $ {Saldo_Conta}");
-            
-        }
-
         public override string ToString()
         {
             return "Conta: "
