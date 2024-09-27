@@ -1,0 +1,15 @@
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.csproj.AssemblyReference.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.AssemblyInfoInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.AssemblyInfo.cs
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.csproj.CoreCompileInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\bin\Debug\net6.0\Estudo001.exe
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\bin\Debug\net6.0\Estudo001.deps.json
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\bin\Debug\net6.0\Estudo001.runtimeconfig.json
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\bin\Debug\net6.0\Estudo001.dll
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\bin\Debug\net6.0\Estudo001.pdb
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.dll
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\refint\Estudo001.dll
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.pdb
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\Estudo001.genruntimeconfig.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\Estudo001\Estudo001\obj\Debug\net6.0\ref\Estudo001.dll

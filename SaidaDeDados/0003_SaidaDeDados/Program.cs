@@ -29,8 +29,6 @@ namespace MyApp
             Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
             Console.WriteLine("Separador decimal invariant Culture: " + medida.ToString("F2", CultureInfo.InvariantCulture));
 
-
-
         }
     }
 }

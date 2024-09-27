@@ -1,0 +1,15 @@
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\bin\Debug\net6.0\ExerciciosOperadoresAritmeticos.exe
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\bin\Debug\net6.0\ExerciciosOperadoresAritmeticos.deps.json
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\bin\Debug\net6.0\ExerciciosOperadoresAritmeticos.runtimeconfig.json
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\bin\Debug\net6.0\ExerciciosOperadoresAritmeticos.dll
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\bin\Debug\net6.0\ExerciciosOperadoresAritmeticos.pdb
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.csproj.AssemblyReference.cache
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.AssemblyInfoInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.AssemblyInfo.cs
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.csproj.CoreCompileInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.dll
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\refint\ExerciciosOperadoresAritmeticos.dll
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.pdb
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ExerciciosOperadoresAritmeticos.genruntimeconfig.cache
+E:\Estudos 2.0\C#\CursoCSharp\ExerciciosOperadoresAritmeticos\ExerciciosOperadoresAritmeticos\obj\Debug\net6.0\ref\ExerciciosOperadoresAritmeticos.dll
