@@ -1,0 +1,15 @@
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\bin\Debug\net6.0\0003_SaidaDeDados.exe
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\bin\Debug\net6.0\0003_SaidaDeDados.deps.json
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\bin\Debug\net6.0\0003_SaidaDeDados.runtimeconfig.json
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\bin\Debug\net6.0\0003_SaidaDeDados.dll
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\bin\Debug\net6.0\0003_SaidaDeDados.pdb
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.csproj.AssemblyReference.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.AssemblyInfoInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.AssemblyInfo.cs
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.csproj.CoreCompileInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.dll
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\refint\0003_SaidaDeDados.dll
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.pdb
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\0003_SaidaDeDados.genruntimeconfig.cache
+E:\Estudos 2.0\C#\CursoCSharp\SaidaDeDados\0003_SaidaDeDados\obj\Debug\net6.0\ref\0003_SaidaDeDados.dll
