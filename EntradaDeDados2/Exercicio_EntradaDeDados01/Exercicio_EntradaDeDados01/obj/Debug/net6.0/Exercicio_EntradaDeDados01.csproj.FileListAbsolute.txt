@@ -1,0 +1,15 @@
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\bin\Debug\net6.0\Exercicio_EntradaDeDados01.exe
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\bin\Debug\net6.0\Exercicio_EntradaDeDados01.deps.json
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\bin\Debug\net6.0\Exercicio_EntradaDeDados01.runtimeconfig.json
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\bin\Debug\net6.0\Exercicio_EntradaDeDados01.dll
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\bin\Debug\net6.0\Exercicio_EntradaDeDados01.pdb
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.csproj.AssemblyReference.cache
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.AssemblyInfoInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.AssemblyInfo.cs
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.csproj.CoreCompileInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.dll
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\refint\Exercicio_EntradaDeDados01.dll
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.pdb
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\Exercicio_EntradaDeDados01.genruntimeconfig.cache
+E:\Estudos 2.0\C#\CursoCSharp\EntradaDeDados2\Exercicio_EntradaDeDados01\Exercicio_EntradaDeDados01\obj\Debug\net6.0\ref\Exercicio_EntradaDeDados01.dll
