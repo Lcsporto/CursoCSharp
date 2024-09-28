@@ -1,0 +1,15 @@
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\bin\Debug\net6.0\Exercicio_003.exe
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\bin\Debug\net6.0\Exercicio_003.deps.json
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\bin\Debug\net6.0\Exercicio_003.runtimeconfig.json
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\bin\Debug\net6.0\Exercicio_003.dll
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\bin\Debug\net6.0\Exercicio_003.pdb
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.csproj.AssemblyReference.cache
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.AssemblyInfoInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.AssemblyInfo.cs
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.csproj.CoreCompileInputs.cache
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.dll
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\refint\Exercicio_003.dll
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.pdb
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\Exercicio_003.genruntimeconfig.cache
+E:\Estudos 2.0\C#\CursoCSharp\Exercicios\Estrutura Sequencial\Exercicio_003\Exercicio_003\obj\Debug\net6.0\ref\Exercicio_003.dll
