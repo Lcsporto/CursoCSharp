@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.exe
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\refint\Funcoes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Funcoes\Funcoes\obj\Debug\net6.0\ref\Funcoes.dll
