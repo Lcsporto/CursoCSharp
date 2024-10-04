@@ -24,25 +24,18 @@
                 if (cont == 1)
                 {
                     alcool += 1;
-                    Console.Write("Digite a opção desejada: ");
-                    cont = int.Parse (Console.ReadLine());
                 }
                 else if (cont == 2) {
                     gasolina += 1;
-                    Console.Write("Digite a opção desejada: ");
-                    cont = int.Parse(Console.ReadLine());
                 }
                 else if (cont == 3) {
                     diesel += 1;
-                    Console.Write("Digite a opção desejada: ");
-                    cont = int.Parse(Console.ReadLine());
                 }
-                else
-                {
-                    Console.Write("Digite a opção desejada: ");
-                    cont = int.Parse(Console.ReadLine());
-                }
+                Console.Write("Digite a opção desejada: ");
+                cont = int.Parse(Console.ReadLine());
+
             }
+            Console.WriteLine("-------------------------");
             Console.WriteLine("MUITO OBRIGADO");
             Console.WriteLine("Alcool: " + alcool);
             Console.WriteLine("Gasolina: " + gasolina);
