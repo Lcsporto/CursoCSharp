@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\bin\Debug\net6.0\Exercicio_002.exe
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\bin\Debug\net6.0\Exercicio_002.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\bin\Debug\net6.0\Exercicio_002.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\bin\Debug\net6.0\Exercicio_002.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\bin\Debug\net6.0\Exercicio_002.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\refint\Exercicio_002.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\Exercicio_002.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\005 Classes_Atributos_Objetos\Exercicio_002\Exercicio_002\obj\Debug\net6.0\ref\Exercicio_002.dll
