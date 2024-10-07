@@ -19,6 +19,13 @@ namespace Classes
 
             x = new Triangulo(); - Instaciação do objeto Triangulo. É necessário colocar a palavra 'New' para chamar a classe e instanciar o objeto. 
 
+            ------------------------------------------------------------------------------------------
+            Criando método para benefícios de reaproveitamento e Delegação
+
+            O método é uma função dentro da Classe
+
+            Criado a função 'Area'
+
              */
 
             Triangulo x, y;
@@ -36,12 +43,9 @@ namespace Classes
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
-            p = (y.A + y.B + y.C) / 2.0;
-
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaX = x.Area();
+            double areaY = y.Area();
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
