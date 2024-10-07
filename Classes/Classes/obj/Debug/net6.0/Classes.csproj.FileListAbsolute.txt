@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\bin\Debug\net6.0\Classes.exe
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\bin\Debug\net6.0\Classes.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\bin\Debug\net6.0\Classes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\bin\Debug\net6.0\Classes.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\refint\Classes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Classes\Classes\obj\Debug\net6.0\ref\Classes.dll
