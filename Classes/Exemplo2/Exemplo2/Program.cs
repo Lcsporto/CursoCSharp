@@ -17,7 +17,28 @@ namespace Exemplo2 {
             Console.Write("Quantidade no estoque: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
+            Console.WriteLine();
             Console.WriteLine("Produto " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adicionados no estoque: ");
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qte); // Criada a Função AdicionarProdutos() na classe Produto. 
+
+            Console.WriteLine();
+            Console.WriteLine("Dados Atualizados" + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removido no estoque: ");
+            qte = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qte); // Criada a Função RemoverProdutos() na classe Produto. 
+
+            Console.WriteLine();
+            Console.WriteLine("Dados Atualizados" + p);
+
+
+
+
 
 
         }
