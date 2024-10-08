@@ -44,7 +44,7 @@ namespace Classes
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 
-            double areaX = x.Area();
+            double areaX = x.Area(); // utilizando a função Area criada
             double areaY = y.Area();
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));

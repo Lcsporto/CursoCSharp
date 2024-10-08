@@ -9,7 +9,8 @@ namespace Classes
         public double B;
         public double C;
 
-        public double Area() // Criando uma função que faz o cálculo da área do triangulo. 
+        // Criando uma função que faz o cálculo da área do triangulo.
+        public double Area() //Aqui não foi necessário colocar nenhum parâmtro de entrada pois todas as variáveis já se encontram na classe. 
         {
             double p = (A + B + C) / 2.0;
             return Math.Sqrt(p * (p - A) * (p - B) * (p - C));
