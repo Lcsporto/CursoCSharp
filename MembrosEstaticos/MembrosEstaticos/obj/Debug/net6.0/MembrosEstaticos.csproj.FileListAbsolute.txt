@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.exe
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.dll
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.pdb
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.dll
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\refint\MembrosEstaticos.dll
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.pdb
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\ref\MembrosEstaticos.dll
