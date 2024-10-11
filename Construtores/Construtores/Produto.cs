@@ -8,17 +8,20 @@ namespace Exemplo2 {
         public int Quantidade;
 
         //Aqui é onde fazemos a declaração do construtor. Geralmente depois dos atributos.
-        public Produto(string nome, double preco, int quantidade) {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
+        public Produto() {
+            Quantidade = 10;
         }
 
-        public Produto(string nome, double preco) {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = 5; // Não é preciso deeclarar, pois na instanciação ele já viria 0. Mas é possível iniciar o atributo com outro valor.
+        public Produto(string nome, double preco) : this() { //O 'this' serve para chamar o Produto() e utilizar os atributos dele. 
+            this.Nome = nome; //o 'this' serve para indicar a varável local do atributo do objeto. E não o parâmetro da função.
+            this.Preco = preco;
+           // Quantidade = 5; // Não é preciso deeclarar, pois na instanciação ele já viria 0. Mas é possível iniciar o atributo com outro valor.
         }
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco) {
+            this.Quantidade = quantidade;
+        }
+
+        
 
         public double ValorTotalEmEstoque() {
             return Preco * Quantidade;
