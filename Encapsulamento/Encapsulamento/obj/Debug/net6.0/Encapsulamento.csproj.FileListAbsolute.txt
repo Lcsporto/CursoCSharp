@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.exe
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\refint\Encapsulamento.dll
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll

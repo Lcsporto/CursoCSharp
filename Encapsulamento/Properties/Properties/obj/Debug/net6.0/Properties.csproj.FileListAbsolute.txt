@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.exe
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.dll
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.dll
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Encapsulamento\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll
