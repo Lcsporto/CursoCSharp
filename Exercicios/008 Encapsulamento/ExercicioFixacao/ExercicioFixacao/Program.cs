@@ -3,6 +3,8 @@
 namespace ExercicioFixacao {
     internal class Program {
         static void Main(string[] args) {
+
+            Conta c;
             
             Console.Write("Entre o número da Conta: ");
             int NumConta = int.Parse(Console.ReadLine());
@@ -13,13 +15,16 @@ namespace ExercicioFixacao {
             Console.Write("Haverá depósito inicial (s/n)? ");
             char VerDepInicial = char.Parse(Console.ReadLine());
 
-            double DepInicial = 0.0;
+            
             if (VerDepInicial == 's' || VerDepInicial == 'S' ) {
                 Console.Write("Entre o valor de depósito incial: ");
-                DepInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                double DepInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                c = new Conta(NumConta, NomeTit, DepInicial);
+            }
+            else {
+                c = new Conta(NumConta, NomeTit);
             }
 
-            Conta c = new Conta(NumConta, NomeTit, DepInicial);
 
             Console.WriteLine();
             Console.WriteLine("Dados da Conta:");
