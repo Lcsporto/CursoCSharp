@@ -14,7 +14,7 @@ namespace ExercicioFixacao {
             char VerDepInicial = char.Parse(Console.ReadLine());
 
             double DepInicial = 0.0;
-            if (VerDepInicial == 's') {
+            if (VerDepInicial == 's' || VerDepInicial == 'S' ) {
                 Console.Write("Entre o valor de depósito incial: ");
                 DepInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }

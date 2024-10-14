@@ -4,32 +4,29 @@ using System.Net.Http.Headers;
 namespace ExercicioFixacao {
     internal class Conta {
 
-        public int NumConta {get; private set; }
-        public string NomeTit { get; set; }
-        public double DepInicial { get; private set; }
+        public int Numero {get; private set; }
+        public string Titular { get; set; }
         public double Saldo {get; private set; }
 
         public Conta(int num_conta, string nome_tit) {
-            NumConta = num_conta;
-            NomeTit = nome_tit;
-            Saldo = 0;
+            Numero = num_conta;
+            Titular = nome_tit;
         }
 
         public Conta(int num_conta, string nome_tit, double dep_inicial) : this(num_conta, nome_tit) {
-            DepInicial = dep_inicial;
-            Saldo = DepInicial;
+            Saldo = dep_inicial;
         }
 
-        public void Deposito(double deposito) {
-            Saldo += deposito;
+        public void Deposito(double quantia) {
+            Saldo += quantia;
         }
 
-        public void Saque(double saque) {
-            Saldo -= (saque + 5.00);
+        public void Saque(double quantia) {
+            Saldo -= (quantia + 5.00);
         }
 
         public override string ToString() {
-            return "Conta " + NumConta + ", Titular: " + NomeTit + ", Saldo: $ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+            return "Conta " + Numero + ", Titular: " + Titular + ", Saldo: $ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
 
 
