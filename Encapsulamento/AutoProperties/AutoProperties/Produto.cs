@@ -1,6 +1,7 @@
 ﻿using System.Globalization;
 namespace Course {
     class Produto {
+
         private string _nome; //Esse não tem como fazer uma Auto Properties pois o _nome há uma lógica particular customizada. 
 
 
