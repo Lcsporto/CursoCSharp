@@ -14,7 +14,7 @@ namespace ExercicioFixacao {
         }
 
         public Conta(int num_conta, string nome_tit, double dep_inicial) : this(num_conta, nome_tit) {
-            Saldo = dep_inicial;
+            Deposito(dep_inicial);
         }
 
         public void Deposito(double quantia) {
