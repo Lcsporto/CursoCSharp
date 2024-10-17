@@ -1,3 +1,6 @@
 Assistido aula 66 - Tipos referência e Tipos Valor
 
 Assistido aula 67 - Desalocação de memória - Garbage Collector e scopo local
+
+
+Assistido aula 68 - Nullable
