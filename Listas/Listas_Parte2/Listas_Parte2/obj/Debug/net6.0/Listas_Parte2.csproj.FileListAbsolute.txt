@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\bin\Debug\net6.0\Listas_Parte2.exe
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\bin\Debug\net6.0\Listas_Parte2.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\bin\Debug\net6.0\Listas_Parte2.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\bin\Debug\net6.0\Listas_Parte2.dll
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\bin\Debug\net6.0\Listas_Parte2.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.dll
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\refint\Listas_Parte2.dll
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\Listas_Parte2.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Listas\Listas_Parte2\Listas_Parte2\obj\Debug\net6.0\ref\Listas_Parte2.dll
