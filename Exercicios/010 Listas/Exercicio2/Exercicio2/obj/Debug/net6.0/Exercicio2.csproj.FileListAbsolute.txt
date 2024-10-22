@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.exe
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\bin\Debug\net6.0\Exercicio2.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\refint\Exercicio2.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\Exercicio2.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\010 Listas\Exercicio2\Exercicio2\obj\Debug\net6.0\ref\Exercicio2.dll
