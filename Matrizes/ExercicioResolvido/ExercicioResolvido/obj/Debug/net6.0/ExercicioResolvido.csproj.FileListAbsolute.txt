@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.exe
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.dll
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\bin\Debug\net6.0\ExercicioResolvido.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.dll
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\refint\ExercicioResolvido.dll
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ExercicioResolvido.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\ExercicioResolvido\ExercicioResolvido\obj\Debug\net6.0\ref\ExercicioResolvido.dll

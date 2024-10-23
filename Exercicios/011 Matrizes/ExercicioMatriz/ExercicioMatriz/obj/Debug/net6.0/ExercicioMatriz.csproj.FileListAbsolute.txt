@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.exe
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\refint\ExercicioMatriz.dll
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Exercicios\011 Matrizes\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ref\ExercicioMatriz.dll

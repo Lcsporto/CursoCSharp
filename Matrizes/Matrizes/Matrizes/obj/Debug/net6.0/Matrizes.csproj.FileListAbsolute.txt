@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\Matrizes\Matrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll
