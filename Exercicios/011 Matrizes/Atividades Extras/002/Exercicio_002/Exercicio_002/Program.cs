@@ -30,7 +30,6 @@ namespace Exercicio_002 {
                 int mult = x[i] * y[i];
                 soma += mult;
             }
-            Console.WriteLine("---------------------");
             Console.WriteLine($"Soma = {soma}");
         }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Zz4k8LreAZMyIyYFdWrM5Xbwas2HGlEcY5f1GxUhdn0ArzpW+ZIqWUL+/i4fF+yU0aV/xr4Nv6EvRJjnkIueZw==",
+  "dgSpecHash": "IN7Gfwm5VQ0=",
   "success": true,
-  "projectFilePath": "F:\\Estudos 2.0\\C#\\CursoCSharp\\Exercicios\\011 Matrizes\\Atividades Extras\\002\\Exercicio_002\\Exercicio_002\\Exercicio_002.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Estudos 2.0\\C#\\CursoCSharp\\Exercicios\\011 Matrizes\\Atividades Extras\\002\\Exercicio_002\\Exercicio_002\\Exercicio_002.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.porto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lucas.porto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lucas.porto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\lucas.porto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }
