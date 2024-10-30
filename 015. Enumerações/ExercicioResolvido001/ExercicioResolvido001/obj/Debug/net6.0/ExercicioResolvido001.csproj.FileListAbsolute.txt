@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\bin\Debug\net6.0\ExercicioResolvido001.exe
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\bin\Debug\net6.0\ExercicioResolvido001.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\bin\Debug\net6.0\ExercicioResolvido001.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\bin\Debug\net6.0\ExercicioResolvido001.dll
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\bin\Debug\net6.0\ExercicioResolvido001.pdb
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.dll
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\refint\ExercicioResolvido001.dll
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.pdb
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ExercicioResolvido001.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\ExercicioResolvido001\ExercicioResolvido001\obj\Debug\net6.0\ref\ExercicioResolvido001.dll
