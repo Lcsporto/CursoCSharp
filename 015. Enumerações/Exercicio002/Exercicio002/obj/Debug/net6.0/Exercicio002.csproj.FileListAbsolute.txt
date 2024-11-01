@@ -1,0 +1,15 @@
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\bin\Debug\net6.0\Exercicio002.exe
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\bin\Debug\net6.0\Exercicio002.deps.json
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\bin\Debug\net6.0\Exercicio002.runtimeconfig.json
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\bin\Debug\net6.0\Exercicio002.dll
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\bin\Debug\net6.0\Exercicio002.pdb
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.csproj.AssemblyReference.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.AssemblyInfoInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.AssemblyInfo.cs
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.csproj.CoreCompileInputs.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.dll
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\refint\Exercicio002.dll
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.pdb
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\Exercicio002.genruntimeconfig.cache
+F:\Estudos 2.0\C#\CursoCSharp\015. Enumerações\Exercicio002\Exercicio002\obj\Debug\net6.0\ref\Exercicio002.dll
