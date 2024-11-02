@@ -1,4 +1,7 @@
 ﻿using Course.Entities.Enums;
+using System.Data.Common;
+using System.Text;
+using System.Globalization;
 
 namespace Course.Entities
 {
@@ -33,6 +36,26 @@ namespace Course.Entities
                  total += item.SubTotal();           
             }
             return total;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Order Moment: {Moment}");
+            sb.AppendLine($"Order Status: {Status}");
+            
+            foreach(OrderItem oi in OrderItens)
+            {
+                sb.Append(oi.Product.Name);
+                sb.Append(", $" + oi.Price.ToString("F2", CultureInfo.InvariantCulture));
+                sb.Append(", Quantity: " + oi.Quantity);
+                sb.AppendLine(", Subtotal: $" + oi.SubTotal().ToString("F2", CultureInfo.InvariantCulture));
+            }
+
+            sb.Append("Total Price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
+
+            return sb.ToString();
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace Course.Entities
+﻿using System.Text;
+
+namespace Course.Entities
 {
     internal class OrderItem
     {
@@ -18,7 +20,6 @@
         public double SubTotal() { 
             return Quantity * Price;
         }
-
 
     }
 }

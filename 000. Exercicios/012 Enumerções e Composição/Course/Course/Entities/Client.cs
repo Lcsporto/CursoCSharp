@@ -1,4 +1,6 @@
-﻿namespace Course.Entities
+﻿using System.Text;
+
+namespace Course.Entities
 {
     internal class Client
     {
@@ -11,6 +13,15 @@
             Name = name;
             Email = email;
             BirthDate = DateTime.Parse(birthDate);
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.Append($"Client: {Name} (" + BirthDate.ToString("dd/MM/yyyy") + $") - {Email}");
+
+            return sb.ToString();
         }
     }
 }

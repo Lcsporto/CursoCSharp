@@ -55,8 +55,10 @@ namespace Course
                 Console.WriteLine();
             }
 
-                      
-
+            Console.WriteLine("ORDER SUMMARY:");
+            Console.WriteLine(client);
+            Console.WriteLine(order);
+            
 
 
 
