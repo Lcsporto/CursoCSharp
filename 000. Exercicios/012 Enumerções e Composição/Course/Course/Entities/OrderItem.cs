@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Globalization;
+using System.Text;
 
 namespace Course.Entities
 {
@@ -19,6 +20,18 @@ namespace Course.Entities
 
         public double SubTotal() { 
             return Quantity * Price;
+        }
+
+        //Essa etapa foi posta com a correção
+        public override string ToString()
+        {
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantity: "
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }

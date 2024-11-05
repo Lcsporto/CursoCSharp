@@ -29,7 +29,7 @@ namespace Course
             Console.Write("How many items to this order? ");
             int n = int.Parse(Console.ReadLine());
 
-            Order order = new Order(DateTime.Now, status);
+            Order order = new Order(DateTime.Now, status, client);
             Product product = new Product();
             OrderItem orderItem = new OrderItem();
 
@@ -56,7 +56,6 @@ namespace Course
             }
 
             Console.WriteLine("ORDER SUMMARY:");
-            Console.WriteLine(client);
             Console.WriteLine(order);
             
 
