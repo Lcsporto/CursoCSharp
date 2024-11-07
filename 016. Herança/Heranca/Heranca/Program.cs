@@ -26,7 +26,9 @@ namespace Heranca
 
             BussinessAcount account = new BussinessAcount(8010, "Bob Brown", 100.0, 500.0);
 
-            Console.WriteLine(account.Balance );
+            Console.WriteLine(account.Balance);
+
+            //account.Balance = 200.0; - Não recebe, pois está como protected
 
         }
     }
