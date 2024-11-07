@@ -1,6 +1,6 @@
-﻿using Upcasting_Downcasting.Entities;
+﻿using Course.Entities;
 
-namespace Upcasting_Downcasting.Entities
+namespace Course.Entities
 {
     internal class SavingsAccount : Account
     {
@@ -18,6 +18,12 @@ namespace Upcasting_Downcasting.Entities
         public void UpdateBalance()
         {
             Balance += Balance * InterestRate;
+        }
+
+        public override void withdraw(double amount)// Reimplementando a Função da Classe Account
+        {
+            base.withdraw(amount); //utilizando a lógica que já existia em Account com a palavra Base.
+            Balance -= 2.0;
         }
 
     }

@@ -1,4 +1,6 @@
-﻿namespace Upcasting_Downcasting.Entities
+﻿using Course.Entities;
+
+namespace Course.Entities
 {
     internal class BussinessAcount : Account
     {
