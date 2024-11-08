@@ -15,7 +15,7 @@
             Balance = balance;
         }
 
-        public virtual void withdraw(double amount)// Colocamos a palavra 'Virtual' para dizer que esse método pode ser sobreposto pelas SubClasses
+        public virtual void withdraw(double amount)
         {
             Balance -= amount + 5.0;
         }

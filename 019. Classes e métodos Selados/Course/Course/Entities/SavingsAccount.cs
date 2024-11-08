@@ -2,7 +2,7 @@
 
 namespace Course.Entities
 {
-    internal class SavingsAccount : Account
+    internal /*sealed*/ class SavingsAccount : Account //Selamos a classe para não poder ter nenhuma Subclasse advinda dela.
     {
         public double InterestRate { get; set; }
 
@@ -20,9 +20,9 @@ namespace Course.Entities
             Balance += Balance * InterestRate;
         }
 
-        public override void withdraw(double amount)// Reimplementando a Função da Classe Account
+        public sealed override void withdraw(double amount)// Agora essa opeação não pode ser sobrescrita novamente em outra SubClasse
         {
-            base.withdraw(amount); //utilizando a lógica que já existia em Account com a palavra Base.
+            base.withdraw(amount);
             Balance -= 2.0;
         }
 
