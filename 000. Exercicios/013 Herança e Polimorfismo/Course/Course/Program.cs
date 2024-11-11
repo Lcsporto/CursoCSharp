@@ -38,7 +38,7 @@ namespace Course
                     product.Add(new UsedProduct(name, price, manufactureDate));
                 }
                 else
-                {
+                {   
                     product.Add(new Product(name, price));
                 }
                 Console.WriteLine();
