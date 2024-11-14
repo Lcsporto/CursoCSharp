@@ -17,16 +17,11 @@ namespace Course.Entities
 
             if (AnualIncome < 20000.00)
             {
-                taxes = AnualIncome * 0.15;
+                taxes = AnualIncome * 0.15 - HealthExpenditures * 0.5;
             }
             else
             {
-                taxes = AnualIncome * 0.25;
-            }
-
-            if (HealthExpenditures > 0)
-            {
-                taxes = taxes - (HealthExpenditures * 0.5);
+                taxes = AnualIncome * 0.25 - HealthExpenditures * 0.5;
             }
 
             return taxes;

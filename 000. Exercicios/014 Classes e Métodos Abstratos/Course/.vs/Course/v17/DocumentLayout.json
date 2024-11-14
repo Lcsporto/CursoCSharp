@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\014 Classes e M\u00E9todos Abstratos\\Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\014 classes e m\u00E9todos abstratos\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\014 classes e m\u00E9todos abstratos\\course\\course\\entities\\companypayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|solutionrelative:course\\entities\\companypayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\014 classes e m\u00E9todos abstratos\\course\\course\\entities\\individualpayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|solutionrelative:course\\entities\\payer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\014 classes e m\u00E9todos abstratos\\course\\course\\entities\\companypayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|solutionrelative:course\\entities\\companypayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\014 classes e m\u00E9todos abstratos\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45D5972-2199-4CCF-9FED-6BE6A64531B4}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 567,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CompanyPayer.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\014 Classes e M\u00E9todos Abstratos\\Course\\Course\\Entities\\CompanyPayer.cs",
               "RelativeDocumentMoniker": "Course\\Entities\\CompanyPayer.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\014 Classes e M\u00E9todos Abstratos\\Course\\Course\\Entities\\CompanyPayer.cs",
               "RelativeToolTip": "Course\\Entities\\CompanyPayer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T02:25:36.711Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Course\\Entities\\IndividualPayer.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\014 Classes e M\u00E9todos Abstratos\\Course\\Course\\Entities\\IndividualPayer.cs",
               "RelativeToolTip": "Course\\Entities\\IndividualPayer.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T02:14:48.016Z",
               "EditorCaption": ""
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\014 Classes e M\u00E9todos Abstratos\\Course\\Course\\Program.cs",
               "RelativeDocumentMoniker": "Course\\Program.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\014 Classes e M\u00E9todos Abstratos\\Course\\Course\\Program.cs",
               "RelativeToolTip": "Course\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T02:09:52.291Z",
               "EditorCaption": ""
