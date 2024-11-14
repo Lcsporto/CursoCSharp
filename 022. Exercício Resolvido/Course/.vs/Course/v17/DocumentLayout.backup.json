@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\022. exerc\u00EDcio resolvido\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\022. exerc\u00EDcio resolvido\\course\\course\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|solutionrelative:course\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\022. exerc\u00EDcio resolvido\\course\\course\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|solutionrelative:course\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\022. exerc\u00EDcio resolvido\\course\\course\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|solutionrelative:course\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\022. exerc\u00EDcio resolvido\\course\\course\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7F07A-F2FA-4C6D-A875-172B1FA2CF78}|Course\\Course.csproj|solutionrelative:course\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 567,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Circle.cs",
+              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Circle.cs",
+              "RelativeToolTip": "Course\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:10:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Rectangle.cs",
+              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Course\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:02:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Shape.cs",
+              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Shape.cs",
+              "RelativeToolTip": "Course\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:55:54.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Color.cs",
+              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Enums\\Color.cs",
+              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "Course\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:56:28.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\022. Exerc\u00EDcio Resolvido\\Course\\Course\\Program.cs*",
+              "RelativeToolTip": "Course\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:48:52.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
