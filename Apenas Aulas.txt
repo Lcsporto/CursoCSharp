@@ -24,4 +24,4 @@ Estudo materia Faculdade - Sistemas Operacionais Interdisciplinar
 
 Classes abstratas
 
-Teste
+Inicio da execução do exercicio
