@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Course.csproj": {}
+    "F:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Part_1.csproj": {}
   },
   "projects": {
-    "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Course.csproj": {
+    "F:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Part_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Course.csproj",
-        "projectName": "Course",
-        "projectPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Course.csproj",
-        "packagesPath": "C:\\Users\\lucas.porto\\.nuget\\packages\\",
-        "outputPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\obj\\",
+        "projectUniqueName": "F:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Part_1.csproj",
+        "projectName": "Part_1",
+        "projectPath": "F:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Part_1.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "F:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas.porto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +39,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net6.0": {
@@ -65,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

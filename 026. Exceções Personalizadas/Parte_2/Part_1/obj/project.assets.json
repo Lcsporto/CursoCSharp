@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Course.csproj",
+      "projectUniqueName": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Parte_2\\Part_1\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\Course.csproj",
+      "projectPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Parte_2\\Part_1\\Course.csproj",
       "packagesPath": "C:\\Users\\lucas.porto\\.nuget\\packages\\",
-      "outputPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Part_1\\Part_1\\obj\\",
+      "outputPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exceções Personalizadas\\Parte_2\\Part_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

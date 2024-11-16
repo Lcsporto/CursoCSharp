@@ -24,4 +24,6 @@ Estudo materia Faculdade - Sistemas Operacionais Interdisciplinar
 
 Classes abstratas
 
-Inicio da execução do exercicio
+Inicio da execução do exercício
+
+Aula 126 - Criando exceções Personalizadas - Parte 2
