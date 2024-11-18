@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exce\u00E7\u00F5es Personalizadas\\Parte_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\026. exce\u00E7\u00F5es personalizadas\\parte_3\\part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|solutionrelative:part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\026. exce\u00E7\u00F5es personalizadas\\parte_3\\part_1\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|solutionrelative:part_1\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\026. exce\u00E7\u00F5es personalizadas\\parte_3\\part_1\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|solutionrelative:part_1\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\026. exce\u00E7\u00F5es personalizadas\\parte_3\\part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7292753D-C9BB-458A-88B0-E76EF3559B56}|Part_1\\Course.csproj|solutionrelative:part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 567,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DomainException.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exce\u00E7\u00F5es Personalizadas\\Parte_3\\Part_1\\Entities\\Exceptions\\DomainException.cs",
               "RelativeDocumentMoniker": "Part_1\\Entities\\Exceptions\\DomainException.cs",
@@ -39,26 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Reservation.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exce\u00E7\u00F5es Personalizadas\\Parte_3\\Part_1\\Entities\\Reservation.cs",
               "RelativeDocumentMoniker": "Part_1\\Entities\\Reservation.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exce\u00E7\u00F5es Personalizadas\\Parte_3\\Part_1\\Entities\\Reservation.cs",
               "RelativeToolTip": "Part_1\\Entities\\Reservation.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T23:04:09.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exce\u00E7\u00F5es Personalizadas\\Parte_3\\Part_1\\Program.cs",
               "RelativeDocumentMoniker": "Part_1\\Program.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\026. Exce\u00E7\u00F5es Personalizadas\\Parte_3\\Part_1\\Program.cs",
               "RelativeToolTip": "Part_1\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T23:04:10.053Z",
               "EditorCaption": ""
