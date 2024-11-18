@@ -1,5 +1,5 @@
 ﻿using Course.Entities;
-using Course.Exceptions;
+using Course.Entities.Exceptions;
 using System.Globalization;
 
 namespace Course
@@ -9,8 +9,7 @@ namespace Course
         static void Main(string[] args)
         {
 
-            try
-            {
+           
                 Console.WriteLine("Enter account data");
                 Console.Write("Number: ");
 
@@ -31,8 +30,8 @@ namespace Course
                 Console.Write("Enter amount of withdraw: ");
                 double withdraw = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            try { 
                 account.Withdraw(withdraw);
-
                 Console.WriteLine(account);
             }
             catch (AccountException e)

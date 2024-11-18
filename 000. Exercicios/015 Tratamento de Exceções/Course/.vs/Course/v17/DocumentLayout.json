@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|solutionrelative:course\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\015 tratamento de exce\u00E7\u00F5es\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\015 tratamento de exce\u00E7\u00F5es\\course\\course\\entities\\exceptions\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|solutionrelative:course\\entities\\exceptions\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\015 tratamento de exce\u00E7\u00F5es\\course\\course\\exceptions\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|solutionrelative:course\\exceptions\\accountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\000. exercicios\\015 tratamento de exce\u00E7\u00F5es\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96308D9-30E3-4491-B72D-4E43D3FF8B9E}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AccountException.cs",
-              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\015 Tratamento de Exce\u00E7\u00F5es\\Course\\Course\\Exceptions\\AccountException.cs",
-              "RelativeDocumentMoniker": "Course\\Exceptions\\AccountException.cs",
-              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\015 Tratamento de Exce\u00E7\u00F5es\\Course\\Course\\Exceptions\\AccountException.cs",
-              "RelativeToolTip": "Course\\Exceptions\\AccountException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\015 Tratamento de Exce\u00E7\u00F5es\\Course\\Course\\Entities\\Exceptions\\AccountException.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Exceptions\\AccountException.cs",
+              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\015 Tratamento de Exce\u00E7\u00F5es\\Course\\Course\\Entities\\Exceptions\\AccountException.cs",
+              "RelativeToolTip": "Course\\Entities\\Exceptions\\AccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T22:24:58.352Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "Course\\Entities\\Account.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\015 Tratamento de Exce\u00E7\u00F5es\\Course\\Course\\Entities\\Account.cs",
               "RelativeToolTip": "Course\\Entities\\Account.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA2wA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T22:00:09.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\015 Tratamento de Exce\u00E7\u00F5es\\Course\\Course\\Program.cs",
               "RelativeDocumentMoniker": "Course\\Program.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\000. Exercicios\\015 Tratamento de Exce\u00E7\u00F5es\\Course\\Course\\Program.cs",
               "RelativeToolTip": "Course\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAswCsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T21:54:45.066Z",
               "EditorCaption": ""

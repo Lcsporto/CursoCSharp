@@ -1,4 +1,4 @@
-﻿using Course.Exceptions;
+﻿using Course.Entities.Exceptions;
 using System.Globalization;
 
 namespace Course.Entities
@@ -14,11 +14,6 @@ namespace Course.Entities
 
         public Account(int number, string holder, double balance, double withdrawLimit)
         {
-            if (balance < 0)
-            {
-                throw new AccountException("Balance must be equal or higger than zero");
-            }
-
             Number = number;
             Holder = holder;
             Balance = balance;
@@ -42,8 +37,6 @@ namespace Course.Entities
             {
                 throw new AccountException("Not enough balance");
             }
-
-
 
             Balance -= amount;
         }
