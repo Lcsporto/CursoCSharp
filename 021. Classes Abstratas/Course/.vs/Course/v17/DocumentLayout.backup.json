@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|solutionrelative:course\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\021. classes abstratas\\course\\course\\entities\\bussinessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|solutionrelative:course\\entities\\bussinessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\021. classes abstratas\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\021. classes abstratas\\course\\course\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|solutionrelative:course\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\021. classes abstratas\\course\\course\\entities\\bussinessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE40CDA4-9FC5-49F7-9DC5-2E2C3A67F186}|Course\\Course.csproj|solutionrelative:course\\entities\\bussinessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,29 +30,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SavingsAccount.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\021. Classes Abstratas\\Course\\Course\\Entities\\SavingsAccount.cs",
               "RelativeDocumentMoniker": "Course\\Entities\\SavingsAccount.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\021. Classes Abstratas\\Course\\Course\\Entities\\SavingsAccount.cs",
               "RelativeToolTip": "Course\\Entities\\SavingsAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:12:55.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T13:12:55.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BussinessAccount.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\021. Classes Abstratas\\Course\\Course\\Entities\\BussinessAccount.cs",
               "RelativeDocumentMoniker": "Course\\Entities\\BussinessAccount.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\021. Classes Abstratas\\Course\\Course\\Entities\\BussinessAccount.cs",
               "RelativeToolTip": "Course\\Entities\\BussinessAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:12:56.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T13:12:56.054Z"
             },
             {
               "$type": "Document",
@@ -62,20 +60,20 @@
               "RelativeDocumentMoniker": "Course\\Entities\\Account.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\021. Classes Abstratas\\Course\\Course\\Entities\\Account.cs",
               "RelativeToolTip": "Course\\Entities\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T13:12:56.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\021. Classes Abstratas\\Course\\Course\\Program.cs",
               "RelativeDocumentMoniker": "Course\\Program.cs",
               "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\021. Classes Abstratas\\Course\\Course\\Program.cs",
               "RelativeToolTip": "Course\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T13:12:56.057Z",
               "EditorCaption": ""
