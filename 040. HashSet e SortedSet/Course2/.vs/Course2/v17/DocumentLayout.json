@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Estudos 2.0\\C#\\CursoCSharp\\040. HashSet e SortedSet\\Course2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D38DE2-4772-4788-9157-98BFAF2F3BDC}|Course2\\Course2.csproj|e:\\estudos 2.0\\c#\\cursocsharp\\040. hashset e sortedset\\course2\\course2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D38DE2-4772-4788-9157-98BFAF2F3BDC}|Course2\\Course2.csproj|solutionrelative:course2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Estudos 2.0\\C#\\CursoCSharp\\040. HashSet e SortedSet\\Course2\\Course2\\Program.cs",
+              "RelativeDocumentMoniker": "Course2\\Program.cs",
+              "ToolTip": "E:\\Estudos 2.0\\C#\\CursoCSharp\\040. HashSet e SortedSet\\Course2\\Course2\\Program.cs",
+              "RelativeToolTip": "Course2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:22:08.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
