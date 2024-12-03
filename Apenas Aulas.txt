@@ -29,3 +29,5 @@ Inicio da execução do exercício
 Aula 126 - Criando exceções Personalizadas - Parte 2
 
 Aula 146 - IComparable
+
+Aula 154 - Como coleções Hash comparam igualdade
