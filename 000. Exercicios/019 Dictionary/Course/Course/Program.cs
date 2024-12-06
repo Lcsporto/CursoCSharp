@@ -11,9 +11,9 @@ namespace Course
 
             Dictionary<string, int> votacao = new Dictionary<string, int>();
 
-            votacao["Alex Blue"] = 0;
+            /*votacao["Alex Blue"] = 0;
             votacao["Maria Green"] = 0;
-            votacao["Bob Brown"] = 0;
+            votacao["Bob Brown"] = 0;*/
 
             try
             {
