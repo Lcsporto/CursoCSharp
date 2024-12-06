@@ -31,3 +31,5 @@ Aula 126 - Criando exceções Personalizadas - Parte 2
 Aula 146 - IComparable
 
 Aula 154 - Como coleções Hash comparam igualdade
+
+Aula 163 - demonstração do capítulo
