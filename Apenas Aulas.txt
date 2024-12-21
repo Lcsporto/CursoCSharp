@@ -35,3 +35,8 @@ Aula 154 - Como coleções Hash comparam igualdade
 Aula 163 - demonstração do capítulo
 
 Aula 174 - Álgebra Relacional e SQL - Nivelamento
+
+
+-------------------
+
+Revisão Membros Estáticos
