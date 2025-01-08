@@ -40,3 +40,6 @@ Aula 174 - Álgebra Relacional e SQL - Nivelamento
 -------------------
 
 Revisão Membros Estáticos
+
+--------------------
+Apenas Aulas 
